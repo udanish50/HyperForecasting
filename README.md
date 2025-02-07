@@ -1,4 +1,4 @@
-# HyperForecasting: Leveraging Hypernetworks and Learnable Kernels for Load Forecasting Across Diverse Consumer Types
+# Leveraging Hypernetworks and Learnable Kernels for Consumer Energy Forecasting Across Diverse Consumer Types
 
 ## Overview
 This repository contains the implementation of "HyperForecasting," a novel approach to load forecasting that utilizes hypernetworks to dynamically adapt to complex consumption patterns across different types of energy consumers. The method incorporates advanced machine learning techniques to address the challenges of traditional forecasting models, providing a robust solution for diverse scenarios including residences, detached homes, and townhouses, with and without electric vehicles.
